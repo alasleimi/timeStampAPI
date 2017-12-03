@@ -1,0 +1,17 @@
+{
+	"name": "timeStampAPI",
+	"dependencies": {
+		"express": "4.x"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alasleimi/timeStampAPI.git"
+	}
+}
