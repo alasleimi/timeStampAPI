@@ -5,9 +5,8 @@
 `https://gettimestamp.glitch.me/[human readable date| unix date in seconds]`
 
  **example**: 
- * ![https://gettimestamp.glitch.me/December%2015,%202015](https://gettimestamp.glitch.me/December%2015,%202015)
- * ![https://gettimestamp.glitch.me/1450137600
-       ](https://gettimestamp.glitch.me/1450137600)
+ * [https://gettimestamp.glitch.me/December%2015,%202015](https://gettimestamp.glitch.me/December%2015,%202015)
+ * [https://gettimestamp.glitch.me/1450137600](https://gettimestamp.glitch.me/1450137600)
 
    
         
